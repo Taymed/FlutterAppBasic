@@ -1,6 +1,8 @@
-# first_app
+# Tutoriel Flutter
 
-A new Flutter project.
+ce projet est réalisé en se basant sur ce tutoriel 
+l'ensemble du code est commenté de sorte à ce que vous puissiez facilement le comprendre
+
 
 ## Getting Started
 
